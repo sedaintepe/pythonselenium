@@ -15,5 +15,6 @@ Kursun gün ve tarihinin yazdığı alanlar: int ve datetime veritipinde
 örnek olarak:
 toplamGun = 8
 scroll = 100
-if(toplamGun == 4 ) scroll = 100/2;
+if(toplamGun == 4 ):
+  scroll = 100/2;
 ```
